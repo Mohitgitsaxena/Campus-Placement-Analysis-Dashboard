@@ -34,3 +34,7 @@ Using dynamic filters for **Course**, **Placement Drive**, and **Gender**, users
 - Placement drive performance tracking
 - Clean and user-friendly dashboard design
 
+### Screenshort / Demo
+Show what the deshboard looks like : 
+![Campus Placement Analysis Dashboard](./dashboard.png)
+
