@@ -11,7 +11,7 @@ A Power BI dashboard project designed to analyze and visualize student placement
 - DAX (Data Analysis Expressions)
 - Data Visualization & Business Intelligence Techniques
 
-# Campus Placement Analysis Dashboard – Project Description
+# Campus Placement Analysis Dashboard – Project
 
 The Campus Placement Analysis Dashboard is an interactive data visualization project developed to analyze and monitor student placement performance across different courses, companies, and demographic categories. The dashboard provides a centralized view of placement statistics, helping academic institutions and placement cells make data-driven decisions to improve student employability and recruitment outcomes.
 
@@ -34,8 +34,3 @@ Using dynamic filters for **Course**, **Placement Drive**, and **Gender**, users
 - Placement drive performance tracking
 - Clean and user-friendly dashboard design
 
-## Tech Stack
-- Power BI
-- Microsoft Excel / CSV Dataset
-- DAX (Data Analysis Expressions)
-- Data Visualization & Business Intelligence Techniques
