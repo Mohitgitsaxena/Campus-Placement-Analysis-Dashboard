@@ -36,5 +36,5 @@ Using dynamic filters for **Course**, **Placement Drive**, and **Gender**, users
 
 ### Screenshort / Demo
 Show what the deshboard looks like : 
-![Campus Placement Analysis Dashboard](./dashboard.png)
+![Campus Placement Analysis Dashboard](https://github.com/Mohitgitsaxena/Campus-Placement-Analysis-Dashboard/blob/main/Snapshort%20Placement%20Analysis.png)
 
